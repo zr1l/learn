@@ -18,4 +18,3 @@ sfasdf
 function hello(){console.log('git')}
 
 ```
-这段是瞎写的
